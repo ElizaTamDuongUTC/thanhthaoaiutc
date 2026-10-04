@@ -1,0 +1,3 @@
+- [x] Use Eliza's uploaded portrait for the course page.
+- [x] Build the selected academic emerald course page with all requested sections.
+- [x] Connect registration calls to the supplied phone number without inventing offer deadlines or credentials.
